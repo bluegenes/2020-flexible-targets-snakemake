@@ -10,7 +10,7 @@ A_workflow = config.get("run_A", True)
 B_workflow = config.get("run_B", False)
 
 default_samples = ["test1", "test2"]
-SAMPLES = config.get("samples", default_samples )
+SAMPLES = config.get("samples", default_samples)
 
 
 # define outputs for each workflow. If running that workflow, 
