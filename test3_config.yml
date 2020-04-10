@@ -1,0 +1,7 @@
+
+run_A: False
+run_B: True
+
+samples:
+  - test3
+
